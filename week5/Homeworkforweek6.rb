@@ -7,11 +7,11 @@
 
 def encrypt(clear_text, shift_by)
     cipher_text = Array.new()
-	clear_text.split("").each do |char|
-		currentPos = @alphabet.index(char)
-		newPos = currentPos + shift_by
-		if (newPos > @alphabet.size())
-			newPos % @alphabet.size()
+	clear_text.split("").each do |char| 
+		current_pos = @alphabet.index(char)
+		new_pos = current_pos + shift_by
+		if (new_pos > @alphabet.size())
+			new_pos % @alphabet.size()
 		end
 		cipher_text.push(@alphabet[newPos])
 	end
