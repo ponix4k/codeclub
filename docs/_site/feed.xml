@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-10-17T15:39:52+01:00</updated><id>http://localhost:4000//</id><title type="html">Leigh Hackspace CodeClub</title><subtitle>Leigh Hackspace Website for Code Club / Code Up Information.
+</subtitle><entry><title type="html">Welcome to CodeClub/CodeUp!</title><link href="http://localhost:4000/codeup/codeclub/leigh/hackspace/2016/10/17/welcome-to-codeclub.html" rel="alternate" type="text/html" title="Welcome to CodeClub/CodeUp!" /><published>2016-10-17T12:30:22+01:00</published><updated>2016-10-17T12:30:22+01:00</updated><id>http://localhost:4000/codeup/codeclub/leigh/hackspace/2016/10/17/welcome-to-codeclub</id><content type="html" xml:base="http://localhost:4000/codeup/codeclub/leigh/hackspace/2016/10/17/welcome-to-codeclub.html">&lt;p&gt;This is where the Leigh Hackspace CodeClub/CodeUp notes will be - the homework
+too - there’s not much here ATM but there will be soon enough&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;‘Git’ing Started&lt;/strong&gt;
+first things first here’s an image
+&lt;img src=&quot;http://localhost:4000/images/creating_a_new_branch.png&quot; alt=&quot;creating a new branch&quot; /&gt;&lt;/p&gt;</content><summary type="html">This is where the Leigh Hackspace CodeClub/CodeUp notes will be - the homework
+too - there’s not much here ATM but there will be soon enough</summary></entry></feed>
