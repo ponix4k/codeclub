@@ -8,6 +8,3 @@ categories: CodeUp CodeClub Leigh Hackspace
 This is where the Leigh Hackspace CodeClub/CodeUp notes will be - the homework
 too - there's not much here ATM but there will be soon enough
 
-__'Git'ing Started__
-first things first here's an image
-![creating a new branch]({{site.url}}/images/creating_a_new_branch.png)
