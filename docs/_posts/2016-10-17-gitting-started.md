@@ -10,7 +10,7 @@ categories: CodeUp CodeClub Leigh Hackspace
 At Leigh Hackspace we're currently using a few things to keep track of things
 
 [MeetUp][1]<br />
-{% include icon-github.html %}[GitHub][2]<br />
+[GitHub][2]<br />
 [GitHub Desktop][3]<br />
 [Slack][4]<br />
 
@@ -21,7 +21,7 @@ but back to GitHub ... or more specifically Git <br />
 
  Git
 ---
-Git is one of many version control systems out there - you may wonder _"why are we using Git instead of [insert other VCS here]>"_ mainly because using Git allows us to use {% include icon-github.html %}[GitHub][2]
+Git is one of many version control systems out there - you may wonder _"why are we using Git instead of [insert other VCS here]>"_ mainly because using Git allows us to use[GitHub][2]
 
 [1]:https://www.meetup.com/
 [2]:https://github.com
